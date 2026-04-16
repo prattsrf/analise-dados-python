@@ -1,2 +1,2 @@
-# analise-dados-python-sql
-Projeto de análise de dados com Python e SQL
+# analise-dados-python
+Projeto de análise de dados com Python e Pandas
