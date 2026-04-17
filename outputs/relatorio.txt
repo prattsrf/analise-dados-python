@@ -1,0 +1,11 @@
+=== RELATÓRIO DE VENDAS ===
+
+Receita total: 10500
+Produto mais vendido: Mouse
+
+Receita por cidade:
+cidade
+Belo Horizonte    1400
+Curitiba          3500
+Rio de Janeiro    5100
+São Paulo          500

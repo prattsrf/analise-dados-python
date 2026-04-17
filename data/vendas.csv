@@ -1,0 +1,9 @@
+id_pedido,data,cliente,cidade,produto,categoria,quantidade,preco_unitario
+1,2024-01-10,João,Rio de Janeiro,Notebook,Eletrônicos,1,3500
+2,2024-01-11,Maria,São Paulo,Mouse,Periféricos,2,100
+3,2024-01-12,Carlos,Belo Horizonte,Teclado,Periféricos,1,200
+4,2024-01-13,Ana,Rio de Janeiro,Monitor,Eletrônicos,1,1200
+5,2024-01-14,Lucas,Curitiba,Notebook,Eletrônicos,1,3500
+6,2024-01-15,Juliana,São Paulo,Mouse,Periféricos,3,100
+7,2024-01-16,Pedro,Rio de Janeiro,Teclado,Periféricos,2,200
+8,2024-01-17,Fernanda,Belo Horizonte,Monitor,Eletrônicos,1,1200
